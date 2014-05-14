@@ -6,7 +6,9 @@ To use this program use any python interpreter or compiler
 and compile and run the currency_converter.py.
 
 In ubuntu/LINUX
+
 	-> Navigate to preferred directory
+
 	-> use command python currency_converter.py
 
 This uses the rate exchange api from
